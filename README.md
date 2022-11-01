@@ -20,3 +20,4 @@ Other resources Provided:
 Insights:
 
 
+![fmcg_dashboard](https://user-images.githubusercontent.com/81954584/199245764-a1c4d908-f101-499f-9ea3-246d17a721b1.png)
