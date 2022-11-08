@@ -1,4 +1,5 @@
 AtliQ_Mart_Supply_Chain_Analysis - Power Bi
+
 This is my submission of Code Basics Challenge 2 #codebasicsresumeprojectchallenge
 
 Problem Statement:
@@ -16,6 +17,11 @@ Other resources Provided:
 3.Peter Pandey’s notes taken during the stakeholder meeting
 
 Insights:
-
+1. Target orders: All the three types of orders have failed to achieve their targets as per shown in KPI indicators
+2. Quantity: By going through delivery qty and order qty, undelievery qty have been counted.
+3. LIFR & VOFR  : This shows lack of delivery with orderlines resulted in low LIFR% and VOFR% is fine.
+4. Metric performance: orderlines were available more during month of August and less during June period.
+5. Product insights : AM Biscuits 750  product was successfully delievered the most whereas AM butter 250 was lessly made available for delivery. 
+6. Split by cities : Vadodara have observed with poor on time in full delivery amomgst theree other cities. 
 
 ![fmcg_dashboard](https://user-images.githubusercontent.com/81954584/199245764-a1c4d908-f101-499f-9ea3-246d17a721b1.png)
